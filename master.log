@@ -241,36 +241,31 @@ LaTeX Warning: Label `fig:enter-label' multiply defined.
 \openout1 = `master.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/txmi/m/it on input line 36.
-LaTeX Font Info:    Trying to load font information for OML+txmi on input line 36.
- (C:\Users\littl\AppData\Local\Programs\MiKTeX\tex/latex/txfonts\omltxmi.fd
-File: omltxmi.fd 2000/12/15 v3.1
-)
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for OMS/txsy/m/n on input line 36.
-LaTeX Font Info:    Trying to load font information for OMS+txsy on input line 36.
- (C:\Users\littl\AppData\Local\Programs\MiKTeX\tex/latex/txfonts\omstxsy.fd
-File: omstxsy.fd 2000/12/15 v3.1
-)
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 36.
+Lacking defaults for OT1/cmr/m/n on input line 36.
 LaTeX Font Info:    ... okay on input line 36.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 36.
 LaTeX Font Info:    ... okay on input line 36.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 36.
 LaTeX Font Info:    ... okay on input line 36.
 LaTeX Font Info:    Checking defaults for OMX/txex/m/n on input line 36.
-LaTeX Font Info:    Trying to load font information for OMX+txex on input line 36.
- (C:\Users\littl\AppData\Local\Programs\MiKTeX\tex/latex/txfonts\omxtxex.fd
+LaTeX Font Info:    Trying to load font information for OMX+txex on input line 
+36.
+
+(C:\Users\littl\AppData\Local\Programs\MiKTeX\tex/latex/txfonts\omxtxex.fd
 File: omxtxex.fd 2000/12/15 v3.1
 )
 LaTeX Font Info:    ... okay on input line 36.
 LaTeX Font Info:    Checking defaults for U/txexa/m/n on input line 36.
-LaTeX Font Info:    Trying to load font information for U+txexa on input line 36.
- (C:\Users\littl\AppData\Local\Programs\MiKTeX\tex/latex/txfonts\utxexa.fd
+LaTeX Font Info:    Trying to load font information for U+txexa on input line 3
+6.
+
+(C:\Users\littl\AppData\Local\Programs\MiKTeX\tex/latex/txfonts\utxexa.fd
 File: utxexa.fd 2000/12/15 v3.1
 )
 LaTeX Font Info:    ... okay on input line 36.
- (C:\Users\littl\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+
+(C:\Users\littl\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
+ii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count289
 \scratchdimen=\dimen153
@@ -283,26 +278,58 @@ LaTeX Font Info:    ... okay on input line 36.
 \MPnumerator=\count293
 \makeMPintoPDFobject=\count294
 \everyMPtoPDFconversion=\toks24
-) (C:\Users\littl\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
+)
+(C:\Users\littl\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
+ase.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
-Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
- (C:\Users\littl\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Users\littl\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.c
+fg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-LaTeX Font Info:    Font shape `OT1/txr/b/n' in size <10> not available
-(Font)              Font shape `OT1/txr/bx/n' tried instead on input line 37.
-LaTeX Font Info:    Font shape `OT1/txr/b/n' in size <14.4> not available
-(Font)              Font shape `OT1/txr/bx/n' tried instead on input line 37.
-LaTeX Font Info:    Trying to load font information for U+txmia on input line 37.
+LaTeX Font Info:    Trying to load font information for U+txmia on input line 3
+8.
  (C:\Users\littl\AppData\Local\Programs\MiKTeX\tex/latex/txfonts\utxmia.fd
 File: utxmia.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    Trying to load font information for U+txsya on input line 37.
- (C:\Users\littl\AppData\Local\Programs\MiKTeX\tex/latex/txfonts\utxsya.fd
+LaTeX Font Info:    Trying to load font information for U+txsya on input line 3
+8.
+(C:\Users\littl\AppData\Local\Programs\MiKTeX\tex/latex/txfonts\utxsya.fd
 File: utxsya.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    Trying to load font information for U+txsyb on input line 37.
- (C:\Users\littl\AppData\Local\Programs\MiKTeX\tex/latex/txfonts\utxsyb.fd
+LaTeX Font Info:    Trying to load font information for U+txsyb on input line 3
+8.
+
+(C:\Users\littl\AppData\Local\Programs\MiKTeX\tex/latex/txfonts\utxsyb.fd
+File: utxsyb.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    Trying to load font information for U+txsyc on input line 3
+8.
+
+(C:\Users\littl\AppData\Local\Programs\MiKTeX\tex/latex/txfonts\utxsyc.fd
+File: utxsyc.fd 2000/12/15 v3.1
+)
+
+[1
+
+{C:/Users/littl/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/litt
+l/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}]
+\openout2 = `abstract.aux'.
+
+ (abstract.tex
+LaTeX Font Info:    Font shape `OT1/txr/b/n' in size <10> not available
+(Font)              Font shape `OT1/txr/bx/n' tried instead on input line 1.
+LaTeX Font Info:    Font shape `OT1/txr/b/n' in size <14.4> not available
+(Font)              Font shape `OT1/txr/bx/n' tried instead on input line 1.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.1 \begin{abstract}
+                    
+? \Local\Programs\MiKTeX\tex/latex/txfonts\utxsyb.fd
 File: utxsyb.fd 2000/12/15 v3.1
 )
 LaTeX Font Info:    Trying to load font information for U+txsyc on input line 37.
