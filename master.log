@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2025.2.16)  16 FEB 2025 17:32
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2025.2.16)  16 FEB 2025 17:34
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -534,8 +534,6 @@ Chapter 8.
 ])
 
 [14]
-
-[15]
 \openout2 = `conclusion.aux'.
 
  (conclusion.tex
@@ -545,7 +543,7 @@ LaTeX Font Info:    Trying to load font information for TS1+txr on input line 4.
 File: ts1txr.fd 2000/12/15 v3.1
 ))
 
-[16
+[15
 
 
 
@@ -557,7 +555,7 @@ File: ts1txr.fd 2000/12/15 v3.1
 Chapter 10.
 )
 
-[17
+[16
 
 
 
@@ -569,7 +567,7 @@ Chapter 10.
 Chapter 11.
 )
 
-[18
+[17
 
 
 
@@ -581,7 +579,7 @@ Chapter 11.
 Chapter 12.
 )
 
-[19
+[18
 
 
 
@@ -605,9 +603,9 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  57i,7n,65p,904b,241s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/littl/AppData/Local/Programs/MiKTeX/fonts/type1/public/txfonts/rtcxr.pfb><C:/Users/littl/AppData/Local/Programs/MiKTeX/fonts/type1/public/txfonts/rtxmi.pfb><C:/Users/littl/AppData/Local/Programs/MiKTeX/fonts/type1/public/txfonts/rtxr.pfb><C:/Users/littl/AppData/Local/Programs/MiKTeX/fonts/type1/public/txfonts/txtt.pfb><C:/Users/littl/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/littl/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/littl/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on master.pdf (23 pages, 493555 bytes).
+Output written on master.pdf (22 pages, 492862 bytes).
 PDF statistics:
- 120 PDF objects out of 1000 (max. 8388607)
+ 117 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  21 words of extra memory for PDF output out of 10000 (max. 10000000)
 
