@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2025.2.16)  16 FEB 2025 16:22
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2025.2.16)  16 FEB 2025 17:09
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -536,8 +536,6 @@ Chapter 8.
 [14])
 
 [15]
-
-[16]
 \openout2 = `conclusion.aux'.
 
  (conclusion.tex
@@ -547,7 +545,7 @@ LaTeX Font Info:    Trying to load font information for TS1+txr on input line 4.
 File: ts1txr.fd 2000/12/15 v3.1
 ))
 
-[17
+[16
 
 
 
@@ -559,7 +557,7 @@ File: ts1txr.fd 2000/12/15 v3.1
 Chapter 10.
 )
 
-[18
+[17
 
 
 
@@ -571,7 +569,7 @@ Chapter 10.
 Chapter 11.
 )
 
-[19
+[18
 
 
 
@@ -583,7 +581,7 @@ Chapter 11.
 Chapter 12.
 )
 
-[20
+[19
 
 
 
@@ -601,15 +599,15 @@ LaTeX Warning: There were multiply-defined labels.
 Here is how much of TeX's memory you used:
  4636 strings out of 473530
  72026 string characters out of 5714794
- 453508 words of memory out of 5000000
+ 452507 words of memory out of 5000000
  27712 multiletter control sequences out of 15000+600000
  584638 words of font info for 93 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  57i,7n,65p,1132b,241s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/littl/AppData/Local/Programs/MiKTeX/fonts/type1/public/txfonts/rtcxr.pfb><C:/Users/littl/AppData/Local/Programs/MiKTeX/fonts/type1/public/txfonts/rtxmi.pfb><C:/Users/littl/AppData/Local/Programs/MiKTeX/fonts/type1/public/txfonts/rtxr.pfb><C:/Users/littl/AppData/Local/Programs/MiKTeX/fonts/type1/public/txfonts/txtt.pfb><C:/Users/littl/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/littl/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/littl/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on master.pdf (24 pages, 496121 bytes).
+Output written on master.pdf (23 pages, 494616 bytes).
 PDF statistics:
- 123 PDF objects out of 1000 (max. 8388607)
+ 120 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  21 words of extra memory for PDF output out of 10000 (max. 10000000)
 

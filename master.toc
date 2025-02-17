@@ -33,16 +33,12 @@
 \contentsline {chapter}{\numberline {8}Societal Issues}{13}{}%
 \contentsline {section}{\numberline {8.1}Ethical}{13}{}%
 \contentsline {section}{\numberline {8.2}Social}{14}{}%
-\contentsline {section}{\numberline {8.3}Political}{14}{}%
-\contentsline {section}{\numberline {8.4}Economic}{14}{}%
-\contentsline {section}{\numberline {8.5}Health and Safety}{14}{}%
-\contentsline {section}{\numberline {8.6}Manufacturability}{14}{}%
-\contentsline {section}{\numberline {8.7}Sustainability}{15}{}%
-\contentsline {section}{\numberline {8.8}Environmental Impact}{15}{}%
-\contentsline {section}{\numberline {8.9}Usability}{15}{}%
-\contentsline {section}{\numberline {8.10}Lifelong learning}{15}{}%
-\contentsline {section}{\numberline {8.11}Compassion}{15}{}%
-\contentsline {chapter}{\numberline {9}Conclusion}{17}{}%
-\contentsline {chapter}{\numberline {10}Acknowledgments}{18}{}%
-\contentsline {chapter}{\numberline {11}References}{19}{}%
-\contentsline {chapter}{\numberline {12}Appendices}{20}{}%
+\contentsline {section}{\numberline {8.3}Economic}{14}{}%
+\contentsline {section}{\numberline {8.4}Health and Safety}{14}{}%
+\contentsline {section}{\numberline {8.5}Usability}{14}{}%
+\contentsline {section}{\numberline {8.6}Lifelong learning}{14}{}%
+\contentsline {section}{\numberline {8.7}Compassion}{15}{}%
+\contentsline {chapter}{\numberline {9}Conclusion}{16}{}%
+\contentsline {chapter}{\numberline {10}Acknowledgments}{17}{}%
+\contentsline {chapter}{\numberline {11}References}{18}{}%
+\contentsline {chapter}{\numberline {12}Appendices}{19}{}%
